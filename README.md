@@ -24,3 +24,5 @@ Enjoy a seamless experience without the hassle of managing multiple browser tabs
 3. Access your favorites with a single click from the top menu.
 
 💡 **Pro Tip:** Organize your saved pages by categories to streamline your workflow!
+
+[Get the latest version here](https://github.com/chartmetric/chartmetric-desktop-release/releases/latest)
