@@ -15,7 +15,7 @@ Enjoy a seamless experience without the hassle of managing multiple browser tabs
 ---
 
 🔗 **Download Now**  
-[Get the latest version here](#)
+[Get the latest version here](https://github.com/chartmetric/chartmetric-desktop-release/releases/latest)
 
 📖 **How to Use**  
 1. Save the pages you frequently visit.  
